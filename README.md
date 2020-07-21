@@ -1,3 +1,3 @@
-# basic-socket-nodejs:
+# Socket:
 
-A basic socket I've made with the purpose of learning
+A socket app I've made with the purpose of learning the basis.
